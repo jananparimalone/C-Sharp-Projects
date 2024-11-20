@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.exe
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.deps.json
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.runtimeconfig.json
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.dll
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.pdb
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.dll
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\refint\ConsoleMethods.dll
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.pdb
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ref\ConsoleMethods.dll

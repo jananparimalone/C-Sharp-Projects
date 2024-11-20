@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsXzbiU1KRaQBuOIPdqiyi3YHvXmFRt/wNJ0l68DLzOsjpjXalAZz2Yn+Rasw7JWk1npukGgALtCSYmFIMEbIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j3malone\\source\\repos\\BuildingACalculator\\BuildingACalculator\\BuildingACalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j3malone\\.nuget\\packages\\microsoft.netcore.ildasm\\7.0.0\\microsoft.netcore.ildasm.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

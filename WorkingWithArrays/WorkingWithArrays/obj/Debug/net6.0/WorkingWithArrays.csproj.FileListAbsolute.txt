@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.exe
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.deps.json
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.runtimeconfig.json
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.dll
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.pdb
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.dll
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\refint\WorkingWithArrays.dll
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.pdb
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\WorkingWithArrays\WorkingWithArrays\obj\Debug\net6.0\ref\WorkingWithArrays.dll

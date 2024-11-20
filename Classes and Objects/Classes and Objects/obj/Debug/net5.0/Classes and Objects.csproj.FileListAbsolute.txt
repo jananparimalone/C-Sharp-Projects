@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.exe
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.deps.json
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.runtimeconfig.json
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.dll
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\bin\Debug\net5.0\Classes and Objects.pdb
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.dll
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\refint\Classes and Objects.dll
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.pdb
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\Classes and Objects.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Classes and Objects\Classes and Objects\obj\Debug\net5.0\ref\Classes and Objects.dll

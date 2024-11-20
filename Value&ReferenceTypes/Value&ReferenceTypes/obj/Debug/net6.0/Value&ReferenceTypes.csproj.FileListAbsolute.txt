@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\bin\Debug\net6.0\Value&ReferenceTypes.exe
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\bin\Debug\net6.0\Value&ReferenceTypes.deps.json
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\bin\Debug\net6.0\Value&ReferenceTypes.runtimeconfig.json
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\bin\Debug\net6.0\Value&ReferenceTypes.dll
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\bin\Debug\net6.0\Value&ReferenceTypes.pdb
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.dll
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\refint\Value&ReferenceTypes.dll
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.pdb
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\Value&ReferenceTypes.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Value&ReferenceTypes\Value&ReferenceTypes\obj\Debug\net6.0\ref\Value&ReferenceTypes.dll

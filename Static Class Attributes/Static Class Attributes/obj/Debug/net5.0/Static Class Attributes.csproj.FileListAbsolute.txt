@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.exe
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.deps.json
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.runtimeconfig.json
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.dll
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\bin\Debug\net5.0\Static Class Attributes.pdb
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.dll
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\refint\Static Class Attributes.dll
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.pdb
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\Static Class Attributes.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Static Class Attributes\Static Class Attributes\obj\Debug\net5.0\ref\Static Class Attributes.dll

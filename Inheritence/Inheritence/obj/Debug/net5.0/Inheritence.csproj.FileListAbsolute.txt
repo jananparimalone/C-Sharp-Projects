@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.exe
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.deps.json
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.runtimeconfig.json
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.dll
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\bin\Debug\net5.0\Inheritence.pdb
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.dll
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\refint\Inheritence.dll
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.pdb
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\Inheritence.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Inheritence\Inheritence\obj\Debug\net5.0\ref\Inheritence.dll

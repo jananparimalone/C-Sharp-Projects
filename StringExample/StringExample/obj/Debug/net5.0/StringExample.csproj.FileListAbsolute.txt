@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.exe
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.deps.json
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.runtimeconfig.json
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.dll
+C:\Users\j3malone\source\repos\StringExample\StringExample\bin\Debug\net5.0\StringExample.pdb
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.dll
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\refint\StringExample.dll
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.pdb
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\StringExample.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\StringExample\StringExample\obj\Debug\net5.0\ref\StringExample.dll

@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\bin\Debug\net6.0\FunWithBitwiseOperations.exe
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\bin\Debug\net6.0\FunWithBitwiseOperations.deps.json
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\bin\Debug\net6.0\FunWithBitwiseOperations.runtimeconfig.json
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\bin\Debug\net6.0\FunWithBitwiseOperations.dll
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\bin\Debug\net6.0\FunWithBitwiseOperations.pdb
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.dll
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\refint\FunWithBitwiseOperations.dll
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.pdb
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\FunWithBitwiseOperations.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\FunWithBitwiseOperations\FunWithBitwiseOperations\obj\Debug\net6.0\ref\FunWithBitwiseOperations.dll

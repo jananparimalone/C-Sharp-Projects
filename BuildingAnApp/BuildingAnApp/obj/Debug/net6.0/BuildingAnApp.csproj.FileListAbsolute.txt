@@ -1,0 +1,15 @@
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\bin\Debug\net6.0\BuildingAnApp.exe
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\bin\Debug\net6.0\BuildingAnApp.deps.json
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\bin\Debug\net6.0\BuildingAnApp.runtimeconfig.json
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\bin\Debug\net6.0\BuildingAnApp.dll
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\bin\Debug\net6.0\BuildingAnApp.pdb
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.dll
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\refint\BuildingAnApp.dll
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.pdb
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\BuildingAnApp.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BuildingAnApp\BuildingAnApp\obj\Debug\net6.0\ref\BuildingAnApp.dll

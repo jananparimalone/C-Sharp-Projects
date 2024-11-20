@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.exe
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.deps.json
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.runtimeconfig.json
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.dll
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.pdb
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.dll
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\refint\BuildingABetterCalculator.dll
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.pdb
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\ref\BuildingABetterCalculator.dll

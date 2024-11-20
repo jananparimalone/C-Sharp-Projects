@@ -1,0 +1,8 @@
+C:\Users\j3malone\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\j3malone\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\j3malone\source\repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\j3malone\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\j3malone\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\j3malone\source\repos\Numbers\Numbers\obj\Debug\Numbers.pdb

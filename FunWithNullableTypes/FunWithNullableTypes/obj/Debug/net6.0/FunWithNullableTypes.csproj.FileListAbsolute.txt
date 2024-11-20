@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\bin\Debug\net6.0\FunWithNullableTypes.exe
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\bin\Debug\net6.0\FunWithNullableTypes.deps.json
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\bin\Debug\net6.0\FunWithNullableTypes.runtimeconfig.json
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\bin\Debug\net6.0\FunWithNullableTypes.dll
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\bin\Debug\net6.0\FunWithNullableTypes.pdb
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.dll
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\refint\FunWithNullableTypes.dll
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.pdb
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\FunWithNullableTypes.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\FunWithNullableTypes\FunWithNullableTypes\obj\Debug\net6.0\ref\FunWithNullableTypes.dll

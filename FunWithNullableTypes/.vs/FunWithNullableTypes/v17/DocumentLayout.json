@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j3malone\\source\\repos\\FunWithNullableTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4036898-E16E-4A8A-A2EE-C6E926EBFD17}|FunWithNullableTypes\\FunWithNullableTypes.csproj|c:\\users\\j3malone\\source\\repos\\funwithnullabletypes\\funwithnullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4036898-E16E-4A8A-A2EE-C6E926EBFD17}|FunWithNullableTypes\\FunWithNullableTypes.csproj|solutionrelative:funwithnullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j3malone\\source\\repos\\FunWithNullableTypes\\FunWithNullableTypes\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithNullableTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\j3malone\\source\\repos\\FunWithNullableTypes\\FunWithNullableTypes\\Program.cs",
+              "RelativeToolTip": "FunWithNullableTypes\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:03:18.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

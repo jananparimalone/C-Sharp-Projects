@@ -1,0 +1,4 @@
+C:\Users\j3malone\source\repos\SimpleCSharpConsoleApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\SimpleCSharpConsoleApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\SimpleCSharpConsoleApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\SimpleCSharpConsoleApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache

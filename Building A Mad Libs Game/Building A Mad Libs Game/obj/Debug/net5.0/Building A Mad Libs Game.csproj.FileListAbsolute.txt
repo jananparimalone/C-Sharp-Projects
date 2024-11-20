@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.exe
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.deps.json
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.runtimeconfig.json
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.dll
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\bin\Debug\net5.0\Building A Mad Libs Game.pdb
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.dll
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\refint\Building A Mad Libs Game.dll
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.pdb
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\Building A Mad Libs Game.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Building A Mad Libs Game\Building A Mad Libs Game\obj\Debug\net5.0\ref\Building A Mad Libs Game.dll

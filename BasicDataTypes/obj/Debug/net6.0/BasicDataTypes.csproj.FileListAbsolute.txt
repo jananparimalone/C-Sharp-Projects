@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.exe
+C:\Users\j3malone\source\repos\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.deps.json
+C:\Users\j3malone\source\repos\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.runtimeconfig.json
+C:\Users\j3malone\source\repos\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.dll
+C:\Users\j3malone\source\repos\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.pdb
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.dll
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\refint\BasicDataTypes.dll
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.pdb
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BasicDataTypes\obj\Debug\net6.0\ref\BasicDataTypes.dll

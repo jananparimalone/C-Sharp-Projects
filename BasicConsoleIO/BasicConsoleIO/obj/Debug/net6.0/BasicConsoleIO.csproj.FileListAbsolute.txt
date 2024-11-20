@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.exe
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.deps.json
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.runtimeconfig.json
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.dll
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\refint\BasicConsoleIO.dll
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.pdb
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\BasicConsoleIO.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\net6.0\ref\BasicConsoleIO.dll

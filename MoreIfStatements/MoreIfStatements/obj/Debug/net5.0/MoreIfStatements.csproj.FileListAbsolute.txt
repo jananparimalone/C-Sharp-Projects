@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.exe
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.deps.json
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.runtimeconfig.json
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.dll
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\bin\Debug\net5.0\MoreIfStatements.pdb
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.dll
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\refint\MoreIfStatements.dll
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.pdb
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\MoreIfStatements.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\MoreIfStatements\MoreIfStatements\obj\Debug\net5.0\ref\MoreIfStatements.dll

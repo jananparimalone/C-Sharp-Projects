@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\bin\Debug\net6.0\WorkingWithStringData.exe
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\bin\Debug\net6.0\WorkingWithStringData.deps.json
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\bin\Debug\net6.0\WorkingWithStringData.runtimeconfig.json
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\bin\Debug\net6.0\WorkingWithStringData.dll
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\bin\Debug\net6.0\WorkingWithStringData.pdb
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.dll
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\refint\WorkingWithStringData.dll
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.pdb
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\WorkingWithStringData.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\WorkingWithStringData\WorkingWithStringData\obj\Debug\net6.0\ref\WorkingWithStringData.dll

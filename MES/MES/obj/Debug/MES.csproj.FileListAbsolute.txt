@@ -1,0 +1,8 @@
+C:\Users\j3malone\source\repos\MES\MES\bin\Debug\MES.exe.config
+C:\Users\j3malone\source\repos\MES\MES\bin\Debug\MES.exe
+C:\Users\j3malone\source\repos\MES\MES\bin\Debug\MES.pdb
+C:\Users\j3malone\source\repos\MES\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\MES\MES\obj\Debug\MES.csproj.SuggestedBindingRedirects.cache
+C:\Users\j3malone\source\repos\MES\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\MES\MES\obj\Debug\MES.exe
+C:\Users\j3malone\source\repos\MES\MES\obj\Debug\MES.pdb

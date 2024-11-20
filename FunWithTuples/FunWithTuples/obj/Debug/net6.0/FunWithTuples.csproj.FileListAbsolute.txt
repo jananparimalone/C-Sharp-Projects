@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\bin\Debug\net6.0\FunWithTuples.exe
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\bin\Debug\net6.0\FunWithTuples.deps.json
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\bin\Debug\net6.0\FunWithTuples.runtimeconfig.json
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\bin\Debug\net6.0\FunWithTuples.dll
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\bin\Debug\net6.0\FunWithTuples.pdb
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.dll
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\refint\FunWithTuples.dll
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.pdb
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\FunWithTuples.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\FunWithTuples\FunWithTuples\obj\Debug\net6.0\ref\FunWithTuples.dll

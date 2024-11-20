@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingABetterCalculator", "BuildingABetterCalculator\BuildingABetterCalculator.csproj", "{9BDF335F-6C84-41B9-9225-CE6716B63FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDF335F-6C84-41B9-9225-CE6716B63FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDF335F-6C84-41B9-9225-CE6716B63FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDF335F-6C84-41B9-9225-CE6716B63FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDF335F-6C84-41B9-9225-CE6716B63FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBFC2F48-B7C9-4CA0-8059-7B79D4FAB10C}
+	EndGlobalSection
+EndGlobal

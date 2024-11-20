@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.exe
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.deps.json
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.runtimeconfig.json
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.dll
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\bin\Debug\net5.0\DataTypesExample.pdb
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.dll
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\refint\DataTypesExample.dll
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.pdb
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\DataTypesExample.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\DataTypesExample\DataTypesExample\obj\Debug\net5.0\ref\DataTypesExample.dll

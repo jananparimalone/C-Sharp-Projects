@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Building A Mad Libs Game/1.0.0": {
+        "runtime": {
+          "Building A Mad Libs Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Building A Mad Libs Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

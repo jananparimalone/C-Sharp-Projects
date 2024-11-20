@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.exe
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.deps.json
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.json
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.dll
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.pdb
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.dll
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\refint\BuildingAnExponentMethod.dll
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.pdb
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\ref\BuildingAnExponentMethod.dll

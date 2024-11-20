@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.exe
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.deps.json
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.runtimeconfig.json
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.dll
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\bin\Debug\net5.0\BuildingAGuessingGame.pdb
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.dll
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\refint\BuildingAGuessingGame.dll
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.pdb
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\BuildingAGuessingGame.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BuildingAGuessingGame\BuildingAGuessingGame\obj\Debug\net5.0\ref\BuildingAGuessingGame.dll

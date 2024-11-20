@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.exe
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.deps.json
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.runtimeconfig.json
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.dll
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\bin\Debug\net5.0\Getters and Setters.pdb
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.dll
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\refint\Getters and Setters.dll
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.pdb
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\Getters and Setters.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Getters and Setters\Getters and Setters\obj\Debug\net5.0\ref\Getters and Setters.dll

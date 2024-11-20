@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\j3malone\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\refint\Arrays.dll
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll

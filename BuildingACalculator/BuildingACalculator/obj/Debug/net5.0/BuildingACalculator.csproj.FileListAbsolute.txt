@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.exe
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.deps.json
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.runtimeconfig.json
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.dll
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.pdb
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.dll
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\refint\BuildingACalculator.dll
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.pdb
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\ref\BuildingACalculator.dll

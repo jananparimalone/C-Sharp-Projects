@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.exe
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.deps.json
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.json
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.dll
+C:\Users\j3malone\source\repos\Net5App\Net5App\bin\Debug\net5.0\Net5App.pdb
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.dll
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\refint\Net5App.dll
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.pdb
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\Net5App.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Net5App\Net5App\obj\Debug\net5.0\ref\Net5App.dll

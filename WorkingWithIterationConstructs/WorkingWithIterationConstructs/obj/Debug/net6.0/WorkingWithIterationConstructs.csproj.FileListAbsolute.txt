@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\bin\Debug\net6.0\WorkingWithIterationConstructs.exe
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\bin\Debug\net6.0\WorkingWithIterationConstructs.deps.json
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\bin\Debug\net6.0\WorkingWithIterationConstructs.runtimeconfig.json
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\bin\Debug\net6.0\WorkingWithIterationConstructs.dll
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\bin\Debug\net6.0\WorkingWithIterationConstructs.pdb
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.dll
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\refint\WorkingWithIterationConstructs.dll
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.pdb
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\WorkingWithIterationConstructs.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\WorkingWithIterationConstructs\WorkingWithIterationConstructs\obj\Debug\net6.0\ref\WorkingWithIterationConstructs.dll

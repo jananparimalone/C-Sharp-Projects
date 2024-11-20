@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.exe
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.deps.json
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.json
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.dll
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.pdb
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.dll
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\refint\ForLoops.dll
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.pdb
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ref\ForLoops.dll

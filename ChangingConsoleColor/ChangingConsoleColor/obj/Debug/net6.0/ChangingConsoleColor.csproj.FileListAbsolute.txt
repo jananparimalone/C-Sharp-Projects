@@ -1,0 +1,15 @@
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\bin\Debug\net6.0\ChangingConsoleColor.exe
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\bin\Debug\net6.0\ChangingConsoleColor.deps.json
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\bin\Debug\net6.0\ChangingConsoleColor.runtimeconfig.json
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\bin\Debug\net6.0\ChangingConsoleColor.dll
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\bin\Debug\net6.0\ChangingConsoleColor.pdb
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.dll
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\refint\ChangingConsoleColor.dll
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.pdb
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ChangingConsoleColor.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\ChangingConsoleColor\ChangingConsoleColor\obj\Debug\net6.0\ref\ChangingConsoleColor.dll

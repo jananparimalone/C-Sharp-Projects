@@ -1,0 +1,14 @@
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\bin\Debug\net6.0\FunWithEnums.exe
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\bin\Debug\net6.0\FunWithEnums.deps.json
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\bin\Debug\net6.0\FunWithEnums.runtimeconfig.json
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\bin\Debug\net6.0\FunWithEnums.dll
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\bin\Debug\net6.0\FunWithEnums.pdb
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.dll
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\refint\FunWithEnums.dll
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.pdb
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\FunWithEnums.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\FunWithEnums\FunWithEnums\obj\Debug\net6.0\ref\FunWithEnums.dll

@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.exe
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.deps.json
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.json
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.dll
+C:\Users\j3malone\source\repos\Constructors\Constructors\bin\Debug\net5.0\Constructors.pdb
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.dll
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\refint\Constructors.dll
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.pdb
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\Constructors.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Constructors\Constructors\obj\Debug\net5.0\ref\Constructors.dll

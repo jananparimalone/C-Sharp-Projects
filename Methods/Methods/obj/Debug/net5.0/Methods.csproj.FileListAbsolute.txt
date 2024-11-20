@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\j3malone\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\refint\Methods.dll
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll

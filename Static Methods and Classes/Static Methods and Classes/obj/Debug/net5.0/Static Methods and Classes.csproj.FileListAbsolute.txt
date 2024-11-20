@@ -1,0 +1,16 @@
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.exe
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.deps.json
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.runtimeconfig.json
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.runtimeconfig.dev.json
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.dll
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\bin\Debug\net5.0\Static Methods and Classes.pdb
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.csproj.AssemblyReference.cache
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.AssemblyInfoInputs.cache
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.AssemblyInfo.cs
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.csproj.CoreCompileInputs.cache
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.dll
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\refint\Static Methods and Classes.dll
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.pdb
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\Static Methods and Classes.genruntimeconfig.cache
+C:\Users\j3malone\source\repos\Static Methods and Classes\Static Methods and Classes\obj\Debug\net5.0\ref\Static Methods and Classes.dll
